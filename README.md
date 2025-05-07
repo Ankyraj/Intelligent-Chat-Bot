@@ -1,5 +1,5 @@
 # Intelligent-Chat-Bot:
-The main functionality of Intelligent Chat Box is it help users accomplish specific tasks by identifying user intent from text or voice conversations using artificial intelligence. It is a desktop application that communicates with users in natural language via auditory or textual methods.
+The main functionality of Intelligent Chat Bot is it help users accomplish specific tasks by identifying user intent from text or voice conversations using artificial intelligence. It is a desktop application that communicates with users in natural language via auditory or textual methods.
 
 # Modules description:
 The project have three layers, In the first layer, I have to make a bot with the help chatterbot package, First of all, I have to pip 
@@ -32,7 +32,7 @@ Advantage of this application is:
 -- Benfits of companies in terms of cost saving.
 
 
-Main functionality of Intelligent Chat Box is it help users accomplish specific tasks by identifying user intent from text or voice conversations using artificial intelligence. They extract key pieces of information using a process called entity extraction leveraging natural language understanding
+Main functionality of Intelligent Chat Bot is it help users accomplish specific tasks by identifying user intent from text or voice conversations using artificial intelligence. They extract key pieces of information using a process called entity extraction leveraging natural language understanding
 	
 # Tools/Technologies used:
 With the help of Python, Tkinter, Chatterbot and pptxs3 technologies helped me to developed Intelligent ChatBot.
